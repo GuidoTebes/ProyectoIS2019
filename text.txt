@@ -1,3 +1,3 @@
 Hola
-si
+si modificado por Pablo
 hago mi nueva funcionalidad con conflicto solucionado
